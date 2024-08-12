@@ -57,7 +57,7 @@ const Customizer = () => {
     try {
       setGeneratingImg(true);
 
-      const response = await fetch('http://localhost:8080/api/v1/ai', {
+      const response = await fetch('https://tshirt-98db.onrender.com/api/v1/ai', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
