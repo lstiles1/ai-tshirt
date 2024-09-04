@@ -1,5 +1,5 @@
 ## Teenie Geenie
-https://tshirt-generator.vercel.app/
+https://teenie-geenie.vercel.app/
 
 ## Project Overview
 Developed a dynamic 3D customization application that allows users to create personalized virtual mock-ups of T-shirts. Users can change colors, upload their own logos, or ask AI to generate a design for them. Users also have the ability to toggle between using the files as logos or as the pattern of the entire shirt. 
