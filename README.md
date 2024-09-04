@@ -1,8 +1,9 @@
-## AI T-Shirt Customizer
+## TeeGeenie
 https://tshirt-generator.vercel.app/
 
 ## Project Overview
 Developed a dynamic 3D customization application that allows users to create personalized virtual mock-ups of T-shirts. Users can change colors, upload their own logos, or ask AI to generate a design for them. Users also have the ability to toggle between using the files as logos or as the pattern of the entire shirt. 
+
 ## Tech Stack
 • Front-End: React.js, Three.js, Tailwind CSS, Framer Motion
 
@@ -20,6 +21,3 @@ Developed a dynamic 3D customization application that allows users to create per
 • User Interface Design: Designed a responsive and user-friendly interface with Tailwind CSS and Framer Motion, enhancing the overall user experience with smooth animations and transitions.
 
 • Custom Feature Development: Enabled features such as color customization, logo upload, texture image upload, and dynamic theme changes based on user selections.
-
-## Features
-• Enhanced code architecture and reusability, making the application maintainable and scalable for future developments.
