@@ -1,4 +1,4 @@
-## TeeGeenie
+## Teenie Geenie
 https://tshirt-generator.vercel.app/
 
 ## Project Overview
